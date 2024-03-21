@@ -1,0 +1,6 @@
+print("hello world",7 ,"hello")
+print(23)
+print(23*2)
+print("Bye")
+print(17*13)
+print("I am Present")
